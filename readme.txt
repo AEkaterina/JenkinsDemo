@@ -1,1 +1,1 @@
-This is a project for Demo
+This is a project for demo
